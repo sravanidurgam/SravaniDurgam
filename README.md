@@ -14,71 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Bio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f9f9f9;
-        }
-        h1 {
-            color: #333;
-        }
-        h3 {
-            color: #555;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        a {
-            color: #0366d6;
-            text-decoration: none;
-        }
-    </style>
-</head>
-<body>
+# Hi there 👋
 
-    <h1>Hi there, I'm Sravani Durgam👋</h1>
+### Hi there, I'm Sravani Durgam👋
 
-    <p>🎓 <strong>4th-year Computer Science Engineering Student</strong><br>
-    📍 <strong>Rajiv Gandhi University of Knowledge Technologies, AP IIIT</strong></p>
+🎓 **4th-year Computer Science Engineering Student**  
+📍 **Rajiv Gandhi University of Knowledge Technologies, AP IIIT**
 
-    <h3>🔭 Current Focus:</h3>
-    <ul>
-        <li>Known languages/technologies: Java, SQL,HTML,CSS,Javascript,React js,Node js,Git,Postman,Python,MachineLearning</li>
-        
-    </ul>
+### 🌟 Career Goals:
+- Seeking internships in software development, data science, or related fields.
+- Aspiring to contribute to innovative tech solutions and open-source projects.
 
-    <h3>🌟 Career Goals:</h3>
-    <ul>
-        <li>Seeking internships in software development, data science, or related fields.</li>
-        <li>Aspiring to contribute to innovative tech solutions and open-source projects.</li>
-    </ul>
+### 🔧 Skills and Technologies:
+- Programming Languages: Java (DSA) ,python
+- Databases:SQL,MongoDB.
+- Web Development: HTML, CSS, JavaScript, React,Nodejs,Express js.
+- Tools: Git, Postman.
 
-    <h3>🔧 Skills and Technologies:</h3>
-    <h3>📫 Get in Touch:</h3>
-    <ul>
-          <li>Email: <a href="mailto:sravanidurgam758@gmail.com">sravanidurgam758@gmail.com</a></li>
-        <li>LinkedIn: <a href="https://www.linkedin.com/in/sravani-durgam-274041227" target="_blank">Your LinkedIn Profile</a></li>
-    </ul>
+### 📫 Get in Touch:
+- Email: [sravanidurgam758@gmail.com](mailto:sravanidurgam758@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
-    <h3>🌱 Hobbies:</h3>
-    <ul>
-        <li>Enjoys hiking, reading tech blogs, and participating in coding hackathons.</li>
-    </ul>
+### 🌱 Hobbies:
+- Enjoys hiking, reading tech blogs, and participating in coding hackathons.
 
-</body>
-</html>
 
