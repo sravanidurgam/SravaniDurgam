@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 ### 📫 Get in Touch:
 - Email: [sravanidurgam758@gmail.com](mailto:sravanidurgam758@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: https://www.linkedin.com/in/sravani-durgam-274041227
+
 
 ### 🌱 Hobbies:
 - Enjoys hiking, reading tech blogs, and participating in coding hackathons.
